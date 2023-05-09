@@ -3,12 +3,6 @@ This project is a full stack web application that serves as an e-commerce websit
 
 # Technology use
 * **Front-End:** HTML5, CSS3, Jquery 3.6.1., Bootstrap 5.1, Fontawesome 6.1.1 pro
-* **Backend:** ASP.NET MVC 5, Entity Framework 6, Microsoft SQL Server
-
-# Main Features:
-* Divided into two parts Client Side and Admin Side.
-* Login & Logout functionality.
-* Advanced Search Box.
 * Filter product by category.
 * Filter product by price range.
 * Add to cart functionality.
