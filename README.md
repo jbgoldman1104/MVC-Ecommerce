@@ -8,3 +8,10 @@ This project is a full stack web application that serves as an e-commerce websit
 # Main Features:
 * Divided into two parts Client Side and Admin Side.
 * Login & Logout functionality.
+* Advanced Search Box.
+* Filter product by category.
+* Filter product by price range.
+* Add to cart functionality.
+* Check Out and place order: currently support cash on delevery option.
+* Auto product update.
+
